@@ -1,4 +1,4 @@
-\# Test
+# Testing My-Setup
 
 
 
@@ -13,9 +13,7 @@ Then, download the scripts and open a PowerShell as administrator. Write:
 
 
 ~~~
-
-.\\install.ps1
-
+.\install.ps1
 ~~~
 
 
@@ -25,9 +23,7 @@ Then restart the powershell and type:
 
 
 ~~~
-
 my-setup install test
-
 ~~~
 
 
